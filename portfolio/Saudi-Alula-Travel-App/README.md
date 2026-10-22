@@ -1,25 +1,111 @@
-# Saudi Alula — Travel App | UI/UX Case Study
+<div align="center">
 
-A mobile app design concept for discovering and exploring destinations in **AlUla, Saudi Arabia**, with a guided booking experience.
+# Discover AlUla
+### Travel discovery & booking · Mobile UI/UX concept
 
-## Screens designed
+**Explore destinations. Discover experiences. Plan your visit.**
 
-- Splash screen and branded introduction
-- Three onboarding screens featuring AlUla's landscapes
-- Login and personalized destination preferences
-- Home page with categories and featured places
-- Attraction details, gallery, and visitor information
-- Booking flow: date selection, guest details, payment method
-- Booking success confirmation
+[← All projects](../README.md) · [GitHub profile](https://github.com/EmanAlmrwani)
 
-## User journey
+</div>
 
-**Welcome → Discover AlUla → Choose interests → Browse destinations → View place → Select booking details → Confirmation**
+---
 
-## Design focus
+## ✨ Overview
 
-The screens explore visual storytelling through AlUla photography, clear navigation, destination discovery, and a step-by-step booking flow.
+**Discover AlUla** is a mobile app interface concept focused on helping visitors explore AlUla's iconic landmarks, browse attractions, and move through a guided reservation experience.
 
-**Status:** This repository currently documents the UI/UX work. Two original screen-board images have been prepared but **have not yet been uploaded to this GitHub repository**. No usability tests or production launch are claimed.
+| | |
+|---|---|
+| **Project type** | Mobile app · UI/UX case study |
+| **Location focus** | AlUla, Saudi Arabia |
+| **Primary experience** | Destination discovery and booking |
+| **Deliverable** | Interface screens and booking flow |
+| **Status** | Design concept — not a live booking app |
 
-*Independent UI/UX concept; not an official Saudia app or production booking service.*
+> **Visual gallery:** The full original screen-board exports have been provided for this case study, but are **not yet hosted in this repository**. This page will display them once uploaded to `images/`.
+
+## 🎯 The design challenge
+
+Planning a visit to a destination can involve several separate decisions: **Where should I go? What can I see there? How do I reserve a visit?**
+
+The concept explores a single mobile flow that introduces AlUla visually, lets visitors browse points of interest, and guides them through booking steps with a clear sense of progress.
+
+### Design goals
+
+- Make the first encounter with AlUla visually engaging
+- Help visitors explore landmarks and experiences by interest
+- Present useful attraction information in a readable format
+- Break the booking process into manageable steps
+- Give users an unmistakable completion state
+
+## 📱 Interface walkthrough
+
+| Stage | Screens shown | Purpose |
+|---|---|---|
+| **01 · Welcome** | Splash and onboarding | Establish a sense of place through photography and concise messaging |
+| **02 · Personalize** | Login and preferred places | Let visitors express the kinds of attractions they want to explore |
+| **03 · Discover** | Home and place details | Browse categories, featured destinations, photography and visitor information |
+| **04 · Reserve** | Date, guest details and payment | Show an ordered, step-by-step booking journey |
+| **05 · Confirm** | Booking success | Make the end of the flow easy to recognize |
+
+## 🧭 User flow
+
+```text
+Splash / Welcome
+       ↓
+Onboarding
+       ↓
+Login / Select interests
+       ↓
+Explore homepage
+       ↓
+Attraction details
+       ↓
+Choose date → Enter details → Select payment
+       ↓
+Booking confirmation
+```
+
+## 🎨 Visual design decisions
+
+**Destination-first imagery.** Large AlUla landscape photographs bring the place into focus before users enter the browsing flow.
+
+**Warm natural palette.** Cream and sand-inspired tones support the scenery and create a cohesive visual identity across screens.
+
+**Step-by-step reservations.** The booking sequence separates scheduling, personal details, and payment selection instead of presenting everything at once.
+
+**Browsing hierarchy.** Category filters, featured places, photo cards, and a detail screen help visitors move from discovery to a specific destination.
+
+## 🖼️ Screen gallery
+
+These are the two provided design boards, organized for display here once their original files are uploaded:
+
+1. `images/alula-onboarding-auth.png` — splash, onboarding, login, interest selection
+2. `images/alula-discovery-booking.png` — home, attraction details, calendar, guest details, payment, confirmation
+
+<!-- After the two images are uploaded, uncomment these lines:
+![AlUla onboarding and authentication](images/alula-onboarding-auth.png)
+![AlUla discovery and booking screens](images/alula-discovery-booking.png)
+-->
+
+## 🔎 Reflection & next steps
+
+This work demonstrates a multi-screen mobile interface and a complete *visual* booking journey. Before treating the concept as a validated product, further work would include:
+
+- Usability testing with potential travelers
+- Accessibility checks, including text contrast and tap targets
+- Verification of real booking rules, dates, and prices
+- Interactive prototype and handoff documentation
+
+**Scope note:** The screens illustrate a design concept. Payment options, booking prices, dates, and confirmation are mockups; they do not represent a functioning reservation system. This is not an official Saudi Arabian Airlines or tourism-authority product.
+
+---
+
+<div align="center">
+
+**Made to explore the beauty of AlUla through thoughtful mobile design.**
+
+[↑ Back to projects](../README.md)
+
+</div>
