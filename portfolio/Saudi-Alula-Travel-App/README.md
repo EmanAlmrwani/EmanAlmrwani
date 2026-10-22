@@ -1,18 +1,25 @@
-# Saudi Alula — Travel App
+# Saudi Alula — Travel App | UI/UX Case Study
 
-**UI/UX design portfolio — preview documented from my existing portfolio image**
+A mobile app design concept for discovering and exploring destinations in **AlUla, Saudi Arabia**, with a guided booking experience.
 
-Travel-focused mobile application UI concept.
+## Screens designed
 
-## Project overview
-This work appears in my existing UI/UX portfolio. The portfolio overview is the current visual reference; individual high-resolution screens and source Figma files have not yet been added to this repository.
+- Splash screen and branded introduction
+- Three onboarding screens featuring AlUla's landscapes
+- Login and personalized destination preferences
+- Home page with categories and featured places
+- Attraction details, gallery, and visitor information
+- Booking flow: date selection, guest details, payment method
+- Booking success confirmation
 
-## Case study
-- **Project:** Saudi Alula — Travel App
-- **Category:** UI/UX and interface design
-- **Design challenge:** To be documented from the original project
-- **Research and process:** To be added from original work
-- **Screens and flows:** Awaiting original exports
-- **Figma link:** To be added when available
+## User journey
 
-*Design portfolio entry. Does not claim a shipped production app.*
+**Welcome → Discover AlUla → Choose interests → Browse destinations → View place → Select booking details → Confirmation**
+
+## Design focus
+
+The screens explore visual storytelling through AlUla photography, clear navigation, destination discovery, and a step-by-step booking flow.
+
+**Status:** This repository currently documents the UI/UX work. Two original screen-board images have been prepared but **have not yet been uploaded to this GitHub repository**. No usability tests or production launch are claimed.
+
+*Independent UI/UX concept; not an official Saudia app or production booking service.*
