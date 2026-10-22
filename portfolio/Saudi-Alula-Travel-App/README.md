@@ -11,6 +11,8 @@
 
 ---
 
+![Saudi Alula — UI/UX Case Study Portfolio Board](Saudi%20Alula.png)
+
 ## ✨ Overview
 
 **Discover AlUla** is a mobile app interface concept focused on helping visitors explore AlUla's iconic landmarks, browse attractions, and move through a guided reservation experience.
@@ -23,7 +25,7 @@
 | **Deliverable** | Interface screens and booking flow |
 | **Status** | Design concept — not a live booking app |
 
-> **Visual gallery:** The full original screen-board exports have been provided for this case study, but are **not yet hosted in this repository**. This page will display them once uploaded to `images/`.
+> **Portfolio presentation:** The image above presents the designed UI screens in a polished case-study layout. Individual original design screens can be added separately.
 
 ## 🎯 The design challenge
 
@@ -79,15 +81,7 @@ Booking confirmation
 
 ## 🖼️ Screen gallery
 
-These are the two provided design boards, organized for display here once their original files are uploaded:
-
-1. `images/alula-onboarding-auth.png` — splash, onboarding, login, interest selection
-2. `images/alula-discovery-booking.png` — home, attraction details, calendar, guest details, payment, confirmation
-
-<!-- After the two images are uploaded, uncomment these lines:
-![AlUla onboarding and authentication](images/alula-onboarding-auth.png)
-![AlUla discovery and booking screens](images/alula-discovery-booking.png)
--->
+The full case-study presentation is displayed at the top of this README. [Open the full-size presentation](Saudi%20Alula.png).
 
 ## 🔎 Reflection & next steps
 
