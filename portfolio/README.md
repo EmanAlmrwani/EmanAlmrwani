@@ -3,7 +3,6 @@
 ## UI/UX Design
 - [NextGen Park — A ParkAI App](NextGen-Park-UIUX/README.md)
 - [Saudi Alula — Travel App](Saudi-Alula-Travel-App/README.md)
-- [ToYou — App Redesign](ToYou-App-Redesign/README.md)
 - [Plantify — Plant App](Plantify-Plant-App/README.md)
 - [Visual Designs — Selected Work](Visual-Designs/README.md)
 
