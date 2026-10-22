@@ -19,13 +19,12 @@ I enjoy turning data into useful insights and designing technology that solves m
 ### 🎨 UI/UX Design
 - [NextGen Park — ParkAI App](portfolio/NextGen-Park-UIUX/README.md)
 - [Saudi Alula — Travel App](portfolio/Saudi-Alula-Travel-App/README.md)
-- [ToYou — App Redesign](portfolio/ToYou-App-Redesign/README.md)
 - [Plantify — Plant App](portfolio/Plantify-Plant-App/README.md)
 - [Visual Designs — Collection](portfolio/Visual-Designs/README.md)
 
 **[Browse my project portfolio →](portfolio/README.md)**
 
-> UI/UX entries are initial case-study descriptions; original full-size screens and Figma files will be added separately.
+> UI/UX entries are initial case-study descriptions; original full-size screens and Figma files can be added separately.
 
 ## 🔗 Connect
 
