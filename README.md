@@ -12,10 +12,6 @@ I enjoy turning data into useful insights and designing technology that solves m
 
 ## 📂 My Projects
 
-### 📊 Data Analytics & Business Intelligence
-- [E-Commerce Sales Analysis — Python](portfolio/Ecommerce-Sales-Analysis-Python/README.md) — reproducible analytical code for a synthetic sales dataset
-- [Customer & Sales Performance — SQL + Power BI](portfolio/Customer-Sales-BI-SQL-PowerBI/README.md) — SQL queries and a Power BI dashboard plan (dashboard not yet built)
-
 ### 🤖 Artificial Intelligence
 - [PneumoAI — Chest X-ray CNN](https://github.com/EmanAlmrwani/PneumoAI-Chest-Xray-CNN) — educational image classification project using TensorFlow and Keras
 - **Aoun — Elderly Care AI Monitoring** — graduation project on fall detection, reminders, and caregiver notifications
@@ -29,7 +25,7 @@ I enjoy turning data into useful insights and designing technology that solves m
 
 **[Browse my project portfolio →](portfolio/README.md)**
 
-> UI/UX entries are initial case-study descriptions; original full-size screens and Figma files will be added separately. Data analytics practice projects use synthetic examples, not real business data.
+> UI/UX entries are initial case-study descriptions; original full-size screens and Figma files will be added separately.
 
 ## 🔗 Connect
 
