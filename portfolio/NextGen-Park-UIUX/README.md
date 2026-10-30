@@ -5,9 +5,13 @@
 
 **Smarter operations. Safer experiences. Connected visitors.**
 
+![NextGen Park Portfolio Cover](NextGen_Park_Portfolio_Cover.png)
+
+[View full-size portfolio cover](NextGen_Park_Portfolio_Cover.png)
+
 </div>
 
-> **Portfolio cover ready:** A curated presentation image has been prepared separately. It will be displayed here once `NextGen_Park_Portfolio_Cover.png` is uploaded to this directory. The original project screenshots are not published here by default because they need privacy review.
+> This is a curated cover showing selected project interfaces. Original detailed screenshots are not published here by default because they require privacy review.
 
 ## Overview
 
@@ -82,11 +86,7 @@ This public write-up deliberately omits personal ticket-holder names, direct wri
 
 ## Portfolio assets
 
-A cleaned presentation cover has been prepared separately for uploading:
-
-`NextGen_Park_Portfolio_Cover.png`
-
-Once uploaded, it can be displayed at the beginning of this README. The original screenshots and the source presentation remain separate from the public repository until reviewed.
+The portfolio cover is uploaded and displayed at the top of this page. Detailed original screenshots and presentation files remain separate until they have been reviewed for privacy.
 
 ---
 
